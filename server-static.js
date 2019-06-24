@@ -24,11 +24,11 @@ var source = {
 
 
 source = {
-  width     : 960,
-  height    : 540,
+  width     : 1024,
+  height    : 768,
 
   video_path     : "samples/out.h264",
-  video_duration : 58,
+  video_duration : 8,
 };
 
 
